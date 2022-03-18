@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Taofeekat
-- 👀 I’m interested in learning how best to use this
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on projects that will improve our skills
+- 📊 I possess a considerable level of data entry and visualisation skill using Tableau, Microsoft Excel and Power BI.
+- 💻 My technical skills are complemented by my analytical and numerical skills, as well as my critical and creative thinking skills which enable me to develop practical solutions to problems.
+- 💞️ I’m looking to work and collaborate on projects that will improve our skills
 - 📫 How to reach me taooyet@gmail.com
 <!---
 Taofeekat/Taofeekat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
