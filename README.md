@@ -6,8 +6,9 @@ I specialize in moving beyond descriptive reporting to delivering predictive and
 -  Analysis & Programming : Python (Pandas, NumPy, EDA), SQL (Querying & Updates), MS Excel (Advanced Reporting)
 - BI & Visualization: Power BI (Certified), Qliksense, Qlikview, Google Looker Studio
 - Data Handling: SAP Business Warehouse, BigQuery, Data Lake Technologies
-• Other Technical Skills: Automation & Low-code Solution (Appsheet), Environmental Data Analysis, Data Entry, Data Storytelling, Quantitative Analysis, Statistical Inference, MS Office (PowerPoint, Word, Outlook)
-• Soft Skills: Research, Report Writing & Presentation, Communication, Attention to Detail, Relationship Management, Problem-solving.
+- Other Technical Skills: Automation & Low-code Solution (Appsheet), Environmental Data Analysis, Data Entry, Data Storytelling, Quantitative Analysis, Statistical Inference, MS Office (PowerPoint, Word, Outlook)
+- Soft Skills: Research, Report Writing & Presentation, Communication, Attention to Detail, Relationship Management, Problem-solving.
+- 
 - I am actively seeking challenging Data Analyst or Business Intelligence roles. I am passionate about utilizing data to solve real world problems and exceed stakeholder expectations.
 
 📫 How to reach me:
